@@ -23,7 +23,8 @@ I printed the test parts:
  - 50 degree bed
  - sliced in Ultimaker Cura
  - using the Draft Quality (0.32mm layer) setting
- - With 4 walls
+ - 0.80mm nozzle
+ - 4 walls
  - 4 top and bottom layers
  - 10% gyroid Infill
 
